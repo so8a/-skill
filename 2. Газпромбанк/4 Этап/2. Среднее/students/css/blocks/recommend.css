@@ -1,0 +1,13 @@
+.recommend {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  gap: 40px 32px;
+}
+
+.recommend__item {
+  width: calc(25% - 32px* 6 / 8);
+  min-height: 480px;
+}

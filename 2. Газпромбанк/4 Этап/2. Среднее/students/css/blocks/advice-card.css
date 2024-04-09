@@ -1,0 +1,79 @@
+.advice-card {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-between;
+  background-image: url("../../images/img-card/img-pension.jpg");
+  border-radius: 12px;
+  padding: 20px 20px 32px;
+  width: 286px;
+  height: 100%;
+}
+
+.advice-card--rating {
+  background-image: url("../../images/img-card/img-rating.jpg");
+}
+
+.advice-card--bullion {
+  background-image: url("../../images/img-card/img-bullion.jpg");
+}
+
+.advice-card--privileges {
+  background-image: url("../../images/img-card/img-privileges.jpg");
+}
+
+.advice-card--transaction {
+  background-image: url("../../images/img-card/img-transaction.jpg");
+}
+
+.advice-card--workoff {
+  background-image: url("../../images/img-card/img-workoff.jpg");
+}
+
+.advice-card--balance {
+  background-image: url("../../images/img-card/img-balance.jpg");
+}
+
+.advice-card--credit-load {
+  background-image: url("../../images/img-card/img-credit-load.jpg");
+}
+
+.advice-card__box {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+}
+
+.advice-card__icon {
+  width: 40px;
+  height: 40px;
+  flex-shrink: 0;
+}
+
+.advice-card__title {
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 16px;
+  color: #FFFFFF;
+}
+
+.advice-card__text {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #FFFFFF;
+}
+
+.advice-card__link {
+  display: block;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  text-align: center;
+  color: #FFFFFF;
+  background-color: #476BF0;
+  border-radius: 12px;
+  width: 246px;
+  padding: 14px;
+  text-decoration: none;
+}
