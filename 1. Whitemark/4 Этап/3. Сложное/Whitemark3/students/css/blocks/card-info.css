@@ -1,0 +1,143 @@
+.card-info {
+  display: flex;
+  flex-direction: column;
+  padding: 20px 40px;
+  height: 100%;
+  background-color: #F2F3EE;
+}
+
+.card-info--secondary {
+  
+}
+
+.card-info__date {
+  font-size: 14px;
+  line-height: 18px;
+  color: rgba(29, 37, 45, 0.5);
+  margin: 0 0 10px;
+}
+
+.card-info__title {
+  font-size: 22px;
+  line-height: 26px;
+  font-weight: 300;
+  letter-spacing: 0.02em;
+  margin: 0 0 10px;
+}
+
+.card-info__text {
+  font-size: 16px;
+  line-height: 22px;
+  margin: 0 0 20px;
+
+}
+
+.card-info__inner-bottom {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  align-items: baseline;
+  margin-top: auto;
+}
+
+.card-info__views {
+  display: block;
+  font-size: 14px;
+  line-height: 18px;
+  color: rgba(29, 37, 45, 0.5);
+
+}
+
+.card-info__link {
+  font-size: 14px;
+  line-height: 18px;
+  text-align: center;
+  background-color: #D6D2C4;
+  border-radius: 40px;
+  padding: 7px 74px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .card {
+  width: 700px;
+  margin: 0 auto;
+  background-color: #F2F3EE;
+  border-radius: 20px;
+  padding: 30px 40px 30px 60px;
+}
+
+.card__date__number {
+  font-size: 14px;
+  line-height: 18px;
+  color: rgba(29, 37, 45, 0.5);
+  display: block;
+  text-align: right;
+  margin: 0 0 10px 0;
+}
+
+.card__h2 {
+  font-size: 22px;
+  line-height: 26px;
+  letter-spacing: 0.02em;
+  font-weight: 300;
+  margin: 0 0 20px 0;
+}
+
+.card__img-picture-figure {
+  height: 300px;
+  width: 600px;
+  border-radius: 12px;
+  margin: 0 0 20px 0;
+}
+
+.card__opisanie {
+  font-size: 16px;
+  line-height: 22px;
+  margin: 0 0 30px 0;
+}
+
+.card__inner-content--wrapper-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+}
+
+.card__views--number {
+  font-size: 14px;
+  line-height: 18px;
+  color:rgba(29, 37, 45, 0.5);
+}
+
+.card__ssilka {
+  width: 220px;
+  font-size: 14px;
+  line-height: 18px;
+  padding: 6px 10px;
+  border-radius: 40px;
+  background-color: #D6D2C4;
+  text-align: center;
+} */
